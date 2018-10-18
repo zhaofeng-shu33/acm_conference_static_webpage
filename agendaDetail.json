@@ -1,0 +1,2092 @@
+[
+    [
+        {
+            "name": "主会场", 
+            "type": 1, 
+            "sessionData": [
+                {
+                    "type": 2, 
+                    "name": "开幕式", 
+                    "guestData": [
+                        {
+                            "guest_name": "王巨宏(主持人)", 
+                            "title": "CCF副理事长，腾讯公司副总裁，技术管理委员会主任", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "08:50", 
+                            "end_time": "09:08", 
+                            "speech_type": "领导致辞", 
+                            "stop_time": "18", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:08", 
+                            "end_time": "09:10", 
+                            "speech_type": "开幕仪式", 
+                            "stop_time": "2", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "type": 2, 
+                    "name": "AI前沿专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "朱晓蕊(主持人-上午)", 
+                            "title": "大会程序主席，哈尔滨工业大学（深圳）教授，斯坦福大学访问教授，IEEE RAS国际事务委员会主席", 
+                            "is_real": "已确定"
+                        }, 
+                        {
+                            "guest_name": "陈宗周(主持人-下午)", 
+                            "title": "《环球科学》社长、总编", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "45", 
+                            "speech_title": "走向真正的人工智能", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张钹", 
+                                    "title": "中国科学院院士，清华大学教授", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "45", 
+                            "speech_title": "Autonomous System Design in the Era of IoT", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "Joseph Sifakis", 
+                                    "title": "图灵奖得主，美国国家科学院、工程院院士，欧洲科学院院士", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:40", 
+                            "end_time": "10:50", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "智慧供应链", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "裴健 ", 
+                                    "title": "京东集团副总裁、大数据与智慧供应链事业部总裁", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:15", 
+                            "end_time": "11:40", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "Driving Safety and Autonomy through Advanced Sensing Technologies and Efficient Big Data Analytics", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "Mircea Gradu", 
+                                    "title": "2018 汽车工程学会（SAE International）主席，Velodyne LiDAR 高级副总裁兼CQO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:40", 
+                            "end_time": "12:05", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "AI赋能，人机共融", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张建伟", 
+                                    "title": "德国汉堡科学院院士，汉堡大学多模式系统研究所所长，国家千人计划专家", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "12:05", 
+                            "end_time": "13:45", 
+                            "speech_type": "午休", 
+                            "stop_time": "100", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "13:45", 
+                            "end_time": "14:30", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "45", 
+                            "speech_title": "Understanding Simple Optimization Algorithms for Big Data", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "罗智泉", 
+                                    "title": "加拿大皇家科学院院士，香港中文大学（深圳）副校长，千人计划专家", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:30", 
+                            "end_time": "14:55", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "Rethinking Deep Learning: Back to the Challenges of Computer Vision", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "马毅", 
+                                    "title": "加州大学伯克利分校电子工程与计算机系教授， ACM 、IEEE Fellow", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:55", 
+                            "end_time": "15:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "Deep Exploration for Efficient Reinforcement Learning", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "Benjamin Van Roy", 
+                                    "title": "斯坦福大学教授，INFORMS Fellow", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:20", 
+                            "end_time": "15:45", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "Studying Uncertainty in Artificial Intelligence", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "承恒达", 
+                                    "title": "美国犹他州立大学计算机系终身教授，电子工程系兼职教授，计算机视觉与模式识别实验室主任", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:45", 
+                            "end_time": "15:55", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:55", 
+                            "end_time": "16:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "如何应对机器人/AI技术过热的时代-机器人将与人类一起见证未来", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "Rolf Pfeifer ", 
+                                    "title": "瑞士苏黎世大学人工智能实验室原主任、酷哇机器人首席科学家", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:20", 
+                            "end_time": "16:45", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "大数据分析+人工智能", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "戴金权", 
+                                    "title": "英特尔高级首席工程师、大数据技术全球CTO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:45", 
+                            "end_time": "17:10", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "搜狗的AI之路与挑战", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " 王小川", 
+                                    "title": "搜狗CEO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "17:10", 
+                            "end_time": "17:35", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "“芯”连世界，智创未来", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "陈宁", 
+                                    "title": "云天励飞创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "17:35", 
+                            "end_time": "17:45", 
+                            "speech_type": "2018年度AI最佳成长榜颁奖仪式", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    [
+        {
+            "name": "分会场一", 
+            "type": 1, 
+            "sessionData": [
+                {
+                    "type": 2, 
+                    "name": "仿生机器人专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "邓新燕(专场主席)", 
+                            "title": "美国普度大学机械工程学院副教授", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:15", 
+                            "end_time": "10:00", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "45", 
+                            "speech_title": "仿生粘附和软微型机器人", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "Metin Sitti ", 
+                                    "title": "德国马克斯普朗克智能系统研究所的物理智能部门元老级成员及负责人，nanoGriptech 公司创始人，原卡内基梅隆大学的机械工程学教授", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:00", 
+                            "end_time": "10:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "Biomimetics on gecko locomotion: from biology to engineering", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "戴振东", 
+                                    "title": "南京航空航天大学仿生结构与材料防护研究所所长，南航溧水仿生产业研究院院长 ", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:25", 
+                            "end_time": "10:35", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:35", 
+                            "end_time": "11:00", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "智能仿生机器鱼", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "谢广明 ", 
+                                    "title": "北京大学工学院教授", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:00", 
+                            "end_time": "11:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "仿人机器人关键技术研究", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "熊蓉", 
+                                    "title": "浙江大学智能系统与控制研究所机器人实验室主任", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:25", 
+                            "end_time": "11:50", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "昆虫和蜂鸟的飞行机理及扑翼仿生机器人", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "邓新燕", 
+                                    "title": "美国普度大学机械工程学院副教授", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "type": 2, 
+                    "name": "机器人应用专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "吴新宇(专场主席)", 
+                            "title": "国家“万人计划”科技创新领军人才，中科院深圳先进技术研究院研究员，智能仿生中心执行主任", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "13:45", 
+                            "end_time": "14:30", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "45", 
+                            "speech_title": "当前智能机器人发展若干挑战性问题", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "王田苗", 
+                                    "title": "北京航空航天大学教授，长江学者特聘教授", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:30", 
+                            "end_time": "14:55", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "特种机器人标准化工作的探索与研究", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "丁宁", 
+                                    "title": "香港中文大学（深圳）机器人与智能制造研究院副院长", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:55", 
+                            "end_time": "15:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "从销售产品到推广技术：无人机商用落地思考", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "谢阗地", 
+                                    "title": "大疆创新公共关系负责人", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:20", 
+                            "end_time": "15:30", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:30", 
+                            "end_time": "15:55", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "从机器人底层技术到商用落地的闭环", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "程昊天", 
+                                    "title": "高仙机器人创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:55", 
+                            "end_time": "16:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "精准口腔正畸诊疗机器人技术与系统", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "夏泽洋", 
+                                    "title": "中科院深圳先进技术研究院研究员", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:20", 
+                            "end_time": "17:10", 
+                            "speech_type": "圆桌", 
+                            "stop_time": "50", 
+                            "speech_title": "机器人的商业化和产业化前景讨论", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "韩龙", 
+                                    "title": "灵喵机器人创始人、禧涤智能联合创始人", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "陈立   ", 
+                                    "title": "宇树科技联合创始人，副总裁", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "赵信宇", 
+                                    "title": "大道智创联合创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "林天麟", 
+                                    "title": "NXROBO创始人", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "分会场二", 
+            "type": 1, 
+            "sessionData": [
+                {
+                    "type": 2, 
+                    "name": "计算机视觉专场", 
+                    "guestData": [
+                        {
+                            "guest_name": " 刘明(专场主席)", 
+                            "title": "香港科技大学电子及计算机工程学系助理教授、RAM-LAB主任", 
+                            "is_real": "已确定"
+                        }, 
+                        {
+                            "guest_name": "王强(专场联合主席)", 
+                            "title": "大数金融CTO兼首席科学家，PAMI和TIP编委，IEEE Fellow", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:15", 
+                            "end_time": "09:55", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "40", 
+                            "speech_title": "计算机视觉、识别与三维重建", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "权龙", 
+                                    "title": "香港科技大学教授，ICCV 2011主席，IEEE Fellow", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "云、端、芯上的视觉计算", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "孙剑", 
+                                    "title": "旷视科技首席科学家、研究院院长", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:20", 
+                            "end_time": "10:45", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "AI引领行业大脑 助力人类潜能提升", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "姚志强 ", 
+                                    "title": "云从科技联合创始人", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:45", 
+                            "end_time": "10:55", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:55", 
+                            "end_time": "11:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "边缘计算赋能智慧城市", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "任鹏", 
+                                    "title": "臻识科技联合创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:20", 
+                            "end_time": "11:45", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "AI，从学术到产业", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "王孝宇", 
+                                    "title": "云天励飞首席科学家，前Snap研究院首席研究员", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:45", 
+                            "end_time": "12:10", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "计算机视觉研究中的新探索", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "林达华", 
+                                    "title": "商汤科技联合创始人，港中文-商汤联合实验室主任", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "12:10", 
+                            "end_time": "13:45", 
+                            "speech_type": "午休", 
+                            "stop_time": "95", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "13:45", 
+                            "end_time": "14:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "35", 
+                            "speech_title": "基于人工智能和医疗大数据的影像组学及其临床应用", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "田捷", 
+                                    "title": "中国科学院分子影像重点实验室主任， IEEE Fellow", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:20", 
+                            "end_time": "14:45", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "Deep Learning in Medical Image Analysis", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " 沈定刚", 
+                                    "title": "北卡罗莱纳大学教授，联影智能联席CEO，MICCAI 2019主席，IEEE Fellow", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:45", 
+                            "end_time": "15:10", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "弱监督学习在医学影像中的探索", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张益肇 ", 
+                                    "title": "微软亚洲研究院副院长", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:10", 
+                            "end_time": "15:20", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:20", 
+                            "end_time": "15:45", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "AI在健康医疗中的价值", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "王熙", 
+                                    "title": "飞利浦中国副总裁、首席技术官", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:45", 
+                            "end_time": "16:10", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "邢磊", 
+                                    "title": "斯坦福大学医学物理系主任，汇医慧影首席科学家，美国科学院院士候选人", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:10", 
+                            "end_time": "17:00", 
+                            "speech_type": "圆桌", 
+                            "stop_time": "50", 
+                            "speech_title": "计算机视觉赋能传统行业", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "柴象飞", 
+                                    "title": "汇医慧影创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "赵地", 
+                                    "title": "中国科学院计算所副研究员", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "李明强", 
+                                    "title": "图普科技创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "龚纯斌", 
+                                    "title": "睿视智觉CEO  ", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "分会场三", 
+            "type": 1, 
+            "sessionData": [
+                {
+                    "type": 2, 
+                    "name": "智能安全专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "田志宏(专场主席)", 
+                            "title": "广州大学网络空间先进技术研究院院长，教授，博导", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:15", 
+                            "end_time": "10:00", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "45", 
+                            "speech_title": "数据安全的现状与趋势", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "任奎", 
+                                    "title": "浙江大学网络空间安全研究中心主任，国家千人计划特聘教授，IEEE Fellow", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:00", 
+                            "end_time": "10:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "AIoT时代的安全", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " 聂科峰", 
+                                    "title": "百度AI安全技术总监", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:25", 
+                            "end_time": "10:35", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:35", 
+                            "end_time": "11:00", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "智能化攻防 —— 机器学习在阿里巴巴网络安全的应用", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "路全", 
+                                    "title": "阿里巴巴集团安全部资深总监", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:00", 
+                            "end_time": "11:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "AI+安全=？ 从危到机，AI时代下的安全挑战", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "胡珀", 
+                                    "title": "腾讯安全平台部总监，腾讯安全平台部Blade Team负责人", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:25", 
+                            "end_time": "11:50", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "Bots vs Adversarial machine learning: Escalating battle of captcha solving", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "苏志刚 ", 
+                                    "title": "京东安全硅谷研究中心负责人", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:50", 
+                            "end_time": "12:15", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "网络安全最佳实践与IoT安全的碰撞", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "王滨", 
+                                    "title": "海康威视网络安全部总监，网络与信息安全实验室主任", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "type": 2, 
+                    "name": "金融科技专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "陈邦道(专场主席)", 
+                            "title": "深圳市和信中欧金融科技研究院执行院长", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "13:45", 
+                            "end_time": "14:30", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "45", 
+                            "speech_title": "从大数据、人工智能到金融科技", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "叶强 ", 
+                                    "title": "哈尔滨工业大学管理学院院长，长江学者特聘教授", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:30", 
+                            "end_time": "14:55", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "移动支付产业：从红包开始走向国际化", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "陈起儒  ", 
+                                    "title": "腾讯金融科技副总裁", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:55", 
+                            "end_time": "15:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "陆一帆", 
+                                    "title": "平安金融壹账通高级总监", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:20", 
+                            "end_time": "15:45", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "蒋龙", 
+                                    "title": "通联数据首席科学家", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:45", 
+                            "end_time": "15:55", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:55", 
+                            "end_time": "16:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "Blockchain Security", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "Ivan Martinovic", 
+                                    "title": "牛津大学计算机科学系教授，深圳市和信中欧金融科技研究院特聘专家", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:20", 
+                            "end_time": "16:30", 
+                            "speech_type": "Blockhouse绿色区块链技术发布", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:30", 
+                            "end_time": "16:55", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "吴小川", 
+                                    "title": "众安-复旦区块链与信息安全联合实验室副主任", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:55", 
+                            "end_time": "17:35", 
+                            "speech_type": "圆桌", 
+                            "stop_time": "40", 
+                            "speech_title": "与巨头共舞：金融科技的服务场景与创新发展之路", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "陈邦道(主持人)", 
+                                    "title": "深圳市和信中欧金融科技研究院执行院长", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张羽", 
+                                    "title": "融慧金科副总裁兼首席运营官", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "王正明", 
+                                    "title": "百融金服副总裁", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "史红哲", 
+                                    "title": "乐信集团副总裁", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "李纪为", 
+                                    "title": "香侬科技创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "韦添誉  ", 
+                                    "title": "蘑菇智能董事长", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    [
+        {
+            "name": "分会场一", 
+            "type": 1, 
+            "sessionData": [
+                {
+                    "type": 2, 
+                    "name": "智能驾驶专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "邓志东(专场主席)", 
+                            "title": "清华大学计算机系教授", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:15", 
+                            "end_time": "10:00", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "45", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " 王飞跃", 
+                                    "title": "中国科学院自动化研究所复杂系统管理与控制国家重点实验室主任、中国自动化学会副理事长兼秘书长", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:00", 
+                            "end_time": "10:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "智能驾驶对汽车大脑及执行机构的挑战", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "綦平 ", 
+                                    "title": "采埃孚（中国）投资有限公司工程技术中心总监", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:25", 
+                            "end_time": "10:35", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:35", 
+                            "end_time": "11:00", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "Boaz Sacks   ", 
+                                    "title": "Mobileye中国区总监", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:00", 
+                            "end_time": "11:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "自动驾驶的乐高理念", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "王凯", 
+                                    "title": "伟世通全球自动驾驶首席架构师", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:25", 
+                            "end_time": "12:15", 
+                            "speech_type": "圆桌", 
+                            "stop_time": "50", 
+                            "speech_title": "为什么说自动驾驶芯片是AI芯片中的珠穆朗玛峰？", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "杨光(主持人)", 
+                                    "title": "耀途资本合伙人", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": " 许炜 ", 
+                                    "title": "零跑汽车副总裁", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "谭黎敏", 
+                                    "title": " 西井科技 CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "单记章", 
+                                    "title": "黑芝麻智能科技创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "李星宇 ", 
+                                    "title": "地平线市场拓展和战略规划副总裁", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "12:15", 
+                            "end_time": "13:45", 
+                            "speech_type": "午休", 
+                            "stop_time": "90", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "13:45", 
+                            "end_time": "14:10", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "陈振武", 
+                                    "title": "深圳市城市交通规划设计研究中心 交通信息与模型院副院长", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:10", 
+                            "end_time": "14:35", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "打造有“中国特色”的自动驾驶L4技术解决方案", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "佟显乔", 
+                                    "title": "Roadstar.ai 创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:35", 
+                            "end_time": "15:00", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "余宁  ", 
+                                    "title": "安波福电气分配系统亚太中心产品工程总监 、应用工程总监", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:00", 
+                            "end_time": "15:10", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:10", 
+                            "end_time": "15:35", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "MEMS LiDAR，“看”自动驾驶全面爆发", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "邱纯鑫 ", 
+                                    "title": "速腾聚创CEO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:35", 
+                            "end_time": "16:00", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "无人驾驶智慧环卫商业化路径", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " 何弢  ", 
+                                    "title": "酷哇机器人创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:00", 
+                            "end_time": "16:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "自动驾驶与物流科技", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "付强", 
+                                    "title": "PlusAI 工程副总裁", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:25", 
+                            "end_time": "17:15", 
+                            "speech_type": "圆桌", 
+                            "stop_time": "50", 
+                            "speech_title": "智能驾驶商业化与产业化", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "朱岩(主持人)", 
+                                    "title": "蔚来资本管理合伙人", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": " 马喆人   ", 
+                                    "title": "G7总裁", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "肖健雄", 
+                                    "title": "AutoX CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "刘振宇", 
+                                    "title": "诗航智能 CTO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张力", 
+                                    "title": "景驰科技运营副总裁", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "蒋齐", 
+                                    "title": " 盼达用车科技商务总监", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "分会场二", 
+            "type": 1, 
+            "sessionData": [
+                {
+                    "type": 2, 
+                    "name": "自然语言处理专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "刘挺(专场主席)", 
+                            "title": "哈尔滨工业大学教授、哈工大人工智能研究院副院长", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:15", 
+                            "end_time": "10:00", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "45", 
+                            "speech_title": "漫谈基于深度学习的中文计算", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "孙茂松", 
+                                    "title": "清华大学计算机科学与技术系教授", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:00", 
+                            "end_time": "10:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "开放域事件抽取", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "赵军", 
+                                    "title": "中国科学院自动化研究所模式识别国家重点实验室研究员", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:25", 
+                            "end_time": "10:35", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:35", 
+                            "end_time": "11:00", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "机器智能中的情感计算", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "秦兵", 
+                                    "title": "哈尔滨工业大学教授，社会计算与信息检索中心副主任", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:00", 
+                            "end_time": "11:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "钟黎", 
+                                    "title": "腾讯知文算法负责人", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:25", 
+                            "end_time": "12:15", 
+                            "speech_type": "圆桌", 
+                            "stop_time": "50", 
+                            "speech_title": "自然语言处理技术的商业落地", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张瑞飞", 
+                                    "title": "神州泰岳大数据VP", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张文斌", 
+                                    "title": "云孚科技创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "翁嘉颀", 
+                                    "title": "竹间智能CTO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "熊琨", 
+                                    "title": "薄言RSVP.ai联合创始人兼CTO ", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "type": 2, 
+                    "name": "AI+专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "曹虎   (主持人)", 
+                            "title": "美国科特勒咨询集团(KMG)全球合伙人、中国区总裁", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "13:45", 
+                            "end_time": "14:10", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "胡侠 ", 
+                                    "title": "美国德州农工大学数据挖掘实验室主任、计算机学院终身教职系列助理教授", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:10", 
+                            "end_time": "14:35", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "机器学习融合大数据", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "胡鲁辉", 
+                                    "title": "永辉云计算联合创始人兼CTO，前华为美研首席架构师兼CTO ", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:35", 
+                            "end_time": "15:00", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "让每个孩子身边都有AI超级老师", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "崔炜", 
+                                    "title": "乂学教育首席科学家", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:00", 
+                            "end_time": "15:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "人工智能和城市智脑", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "曹友盛", 
+                                    "title": "中兴力维首席技术官", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:25", 
+                            "end_time": "15:50", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "科学与艺术的跨界融合", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "高峰 ", 
+                                    "title": "清华大学未来实验室博士后，博云视觉联合创始人", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:50", 
+                            "end_time": "16:00", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "type": 2, 
+                    "name": "投资人专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "曹虎   (主持人)", 
+                            "title": "美国科特勒咨询集团(KMG)全球合伙人、中国区总裁", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "16:00", 
+                            "end_time": "16:25", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "AI创业前要深度思考的五个问题", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "程浩", 
+                                    "title": "迅雷创始人、远望资本创始合伙人", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:25", 
+                            "end_time": "17:25", 
+                            "speech_type": "圆桌", 
+                            "stop_time": "60", 
+                            "speech_title": "AI落地时代的投资逻辑", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "陈成强", 
+                                    "title": "上海创派投资咨询有限公司（InnoSpace）总经理、壹诺创投基金创始合伙人", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张春晖", 
+                                    "title": "PlutusVC合伙人", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "邓永强", 
+                                    "title": "英诺创新空间创始人，盗火者区块链应用联盟发起人", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "苏亮   ", 
+                                    "title": "国金投资副总裁", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "分会场三", 
+            "type": 1, 
+            "sessionData": [
+                {
+                    "type": 2, 
+                    "name": "IoT专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "邹月娴(专场主席)", 
+                            "title": "北京大学深圳研究生院教授", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:15", 
+                            "end_time": "09:50", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "35", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "赵峰", 
+                                    "title": "海尔家电产业集团副总裁、CTO ", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:50", 
+                            "end_time": "10:15", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "崔宝秋 ", 
+                                    "title": "小米人工智能与云平台副总裁", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:15", 
+                            "end_time": "10:40", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "迎接IoT时代智能语音的新挑战", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "谢磊", 
+                                    "title": "西北工业大学计算机学院教授，博士生导师", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:40", 
+                            "end_time": "10:50", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "万物一听  智慧物联", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张陈", 
+                                    "title": "科大讯飞消费者BG智能硬件事业部总经理 ", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:15", 
+                            "end_time": "11:40", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "边缘计算在不同场景的不同打法", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "龙一民", 
+                                    "title": "阿里云IoT事业部高级技术专家", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "11:40", 
+                            "end_time": "12:30", 
+                            "speech_type": "圆桌", 
+                            "stop_time": "50", 
+                            "speech_title": "IoT行业生态中的竞争与合作", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "刘振宇", 
+                                    "title": "致趣科技CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张发恩", 
+                                    "title": "创新奇智公司CTO，创新工场人工智能工程院首席架构师", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "孔尧   ", 
+                                    "title": "明我科技创始人", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "孙晓刚", 
+                                    "title": "蓦然认知产品副总裁", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "侯喜茹", 
+                                    "title": "珊口科技 COO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "type": 2, 
+                    "name": "AI芯片专场", 
+                    "guestData": [
+                        {
+                            "guest_name": "魏少军(专场主席)", 
+                            "title": "清华大学微电子所所长", 
+                            "is_real": "已确定"
+                        }, 
+                        {
+                            "guest_name": "苏东(主持人)", 
+                            "title": "华登国际投资总监", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "13:45", 
+                            "end_time": "14:30", 
+                            "speech_type": "大会报告", 
+                            "stop_time": "45", 
+                            "speech_title": "从IA到AI，我们还要走多远？", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "魏少军", 
+                                    "title": "清华大学微电子所所长", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:30", 
+                            "end_time": "14:55", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "英特尔计算平台助力人工智能发展", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "陈玉荣   ", 
+                                    "title": "博士，英特尔首席研究员、英特尔中国研究院认知计算实验室主任", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "14:55", 
+                            "end_time": "15:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "地平线AI芯片，千万行业智能化的发动机", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "张永谦", 
+                                    "title": "地平线智能解决方案与芯片事业部总经理", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:20", 
+                            "end_time": "15:30", 
+                            "speech_type": "中场休息", 
+                            "stop_time": "10", 
+                            "speech_title": "", 
+                            "guestData": [
+                                {
+                                    "guest_name": "无嘉宾", 
+                                    "type": 4
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:30", 
+                            "end_time": "15:55", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "如何使用区块链技术为AI企业解决算力等问题", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "何永", 
+                                    "title": "深脑链基金会创始人、义语智能科技CEO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "15:55", 
+                            "end_time": "16:20", 
+                            "speech_type": "主题演讲", 
+                            "stop_time": "25", 
+                            "speech_title": "开源RISC-V指令架构与AI芯片", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "谭章熹", 
+                                    "title": "OURS创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "16:20", 
+                            "end_time": "17:10", 
+                            "speech_type": "圆桌", 
+                            "stop_time": "50", 
+                            "speech_title": "中国芯的新机会：AI芯片如何实现弯道超车", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": "苏东(主持人)", 
+                                    "title": "华登国际投资总监", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "牛昕宇  ", 
+                                    "title": "深圳鲲云信息科技有限公司创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "李云鹏", 
+                                    "title": "天数智芯创始人兼CEO", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": " 周斌", 
+                                    "title": "NovuMind中国区总裁", 
+                                    "is_real": "已确定"
+                                }, 
+                                {
+                                    "type": 4, 
+                                    "guest_name": "沈联杰", 
+                                    "title": "AVSdsp CEO", 
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+]

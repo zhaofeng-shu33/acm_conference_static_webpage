@@ -1,0 +1,187 @@
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="./index.css" />    
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+
+</head>
+<body>
+    <div class="section agenda-sec right-nav" id="navAgenda">
+        <div class="layout-center">
+            <div class="title">
+                <h2>大会议程</h2>
+            </div>
+            <div class="main-content clearfix">
+                <div class="agenda-wrap clearfix">
+                    <div class="agenda-tab">
+                        <div class="tab-item item-day1 act">6.29<i class="tar"></i></div>
+                        <div class="tab-item item-day2">6.30<i class="tar"></i></div>
+                        <div class="tab-item item-day3">7.01<i class="tar"></i></div>
+                    </div>
+                    <div class="agenda-card">                       
+                        
+                    </div>
+                </div> 
+                        
+            </div>
+
+        </div>
+    </div>
+        <script>
+    $.ajax({
+        url:'./agendaDetail.json',
+        type:'GET',
+        async:false,
+        success:function(res){
+            var html = [];
+            for (var lv1 = 0; lv1 < res.length; lv1++) {
+                html=html.concat([
+                    '<div class="card-item card-day'+(lv1+1)+' '+(lv1==0?"act":"")+'">',
+                        '<div class="agenda-level2">',
+                        ])
+                        var nav=0;
+                        for (var lv2 = 0; lv2 < res[lv1].length; lv2++) {
+                            if (res[lv1][lv2].hasOwnProperty('sessionData')) {
+                                for (var lv3 = 0; lv3 < res[lv1][lv2].sessionData.length; lv3++) {
+                                    
+                                        nav++
+                                        html=html.concat([
+                                            '<div class="level2-item" data-lv2="'+(nav)+'">'+res[lv1][lv2].sessionData[lv3].name+'</div>',
+                                        ]) 
+                                                          
+                                }
+                            }                 
+                        }
+                        html=html.concat([
+                        '</div>',
+                        '<div class="agenda-content-wrap bottom-shadow">',
+                            '<div class="fa-position">',
+                                '<div class="agenda-content">',
+                                ])
+                                for (var lv2 = 0; lv2 < res[lv1].length; lv2++) {
+                                    if (res[lv1][lv2].hasOwnProperty('sessionData')) {
+                                        for (var lv3 = 0; lv3 < res[lv1][lv2].sessionData.length; lv3++) {
+                                                html=html.concat([
+                                                '<div class="agenda-tit">'+res[lv1][lv2].sessionData[lv3].name+'</div>',
+                                                ])
+
+                                                if (res[lv1][lv2].sessionData[lv3].guestData!=='') {
+                                                    html=html.concat([                
+                                                    '<div class="agenda-tit-list-warp"><div class="agenda-tit-list clr">'
+                                                    ])
+                                                    for (var i = 0; i < res[lv1][lv2].sessionData[lv3].guestData.length; i++) {
+                                                        html=html.concat([
+                                                        '<div class="list-item">'+res[lv1][lv2].sessionData[lv3].guestData[i].guest_name+'，'+res[lv1][lv2].sessionData[lv3].guestData[i].title+'</div>',
+                                                        ])
+                                                        
+                                                    }
+                                                    html=html.concat([                
+                                                    '</div></div>',
+                                                    ])                                                   
+                                                }
+                                                
+                                                html=html.concat([                                                
+                                                '<ul class="agenda-list">',                                            
+                                                ])
+                                                if (res[lv1][lv2].sessionData[lv3].hasOwnProperty('speechData')) {
+                                                    for (var lv4 = 0; lv4 < res[lv1][lv2].sessionData[lv3].speechData.length; lv4++) {                                                
+                                                        html=html.concat([
+                                                            '<li class="agenda-item clearfix">',
+                                                                '<div class="ag-cir"><i></i></div>',
+                                                                '<div class="ag-time">'+res[lv1][lv2].sessionData[lv3].speechData[lv4].start_time+" - "+res[lv1][lv2].sessionData[lv3].speechData[lv4].end_time+'</div>',
+                                                                '<div class="ag-name">'+res[lv1][lv2].sessionData[lv3].speechData[lv4].speech_type+'</div>',
+                                                                '<div class="ag-intro">',
+                                                                    '<div class="ag-tit">'+res[lv1][lv2].sessionData[lv3].speechData[lv4].speech_title+'</div>'
+                                                                ])                                                
+                                                                for (var lv5 = 0; lv5 < res[lv1][lv2].sessionData[lv3].speechData[lv4].guestData.length; lv5++) {
+                                                                    if (res[lv1][lv2].sessionData[lv3].speechData[lv4].guestData[lv5].guest_name=="无嘉宾") {
+                                                                            
+                                                                    }else if(res[lv1][lv2].sessionData[lv3].speechData[lv4].guestData[lv5].guest_name=="嘉宾确认中"){
+                                                                        html=html.concat([
+                                                                            '<div class="intro-line line-1">'+res[lv1][lv2].sessionData[lv3].speechData[lv4].guestData[lv5].guest_name+'</div>'                                                                
+                                                                        ])
+                                                                    }else{
+                                                                        html=html.concat([
+                                                                            '<div class="intro-line">'+res[lv1][lv2].sessionData[lv3].speechData[lv4].guestData[lv5].guest_name+'，'+res[lv1][lv2].sessionData[lv3].speechData[lv4].guestData[lv5].title+'</div>'                                                                
+                                                                        ])
+                                                                    }
+                                                                }                                                                                                                    
+                                                                html=html.concat([
+                                                                '</div>',
+                                                            '</li>',
+                                                        ])
+                                                    }
+                                                
+                                                
+                                                html=html.concat([
+                                                '</ul>',
+                                                ])
+                                            }                    
+                                        }
+                                    }                 
+                                }                                
+                                if (lv1==0) {
+                                    html=html.concat([
+                                        '<li class="agenda-item agenda-item-sp clearfix"><div class="ag-cir"><i></i></div><div class="ag-time">18:15 - 19:30</div><div class="ag-name">大咖饭局</div><div class="ag-intro"><div class="intro-line">仅限大会嘉宾及受邀人士，VIP观众可联系客服提前报名</div></div></li>',
+                                        '<li class="agenda-item agenda-item-sp agenda-item-sp-last clearfix"><div class="ag-cir"><i></i></div><div class="ag-time">19:00 - 20:30</div><div class="ag-name">专场闭门会</div><div class="ag-intro"><div class="intro-line">CCF-GAIR × Velodyne LiDAR之夜 需报名审核<a target="_blank" href="http://www.huodongxing.com/event/2444644789300" class="ve-btn">报名参与</a></div></div></li>',
+                                        '<div class="next-agenda" data-day="1">6月30日议程 <i></i></div>',
+                                    ])
+                                }else if(lv1==1){
+                                    html=html.concat([
+                                        '<div class="next-agenda" data-day="2">7月01日议程 <i></i></div>',
+                                    ])
+                                }
+                                html=html.concat([
+                                '</div>',
+                            '</div>',
+                        '</div>',
+                    '</div>'
+                ])
+
+            }
+
+            $('.agenda-card').html(html.join(''));
+
+        },
+        error:function(res){
+            console.log(res)
+        }
+    })
+        // 议程切换
+    $(document).on('click','.tab-item',function(){
+        var _index=$(this).index();
+        $('.tab-item').removeClass('act');
+        $(this).addClass('act');
+        $('.card-item').removeClass('act');
+        $('.card-day'+(_index+1)).addClass('act');
+        $('.card-day'+(_index+1)).find('.fa-position').on('scroll',function(){
+            var agTop=0;
+            var navOb2={};
+            var secDom2=$(this).find('.agenda-tit');
+            for (var i = 0; i < secDom2.length; i++) {
+                var nav="nav"+i;
+                navOb2[nav]=$(secDom2[i]).position().top;
+            }
+            agTop=$(this).scrollTop();       
+            for (var i = 0; i < secDom2.length; i++) {
+                if (agTop>navOb2['nav'+i]-100&&agTop<(navOb2['nav'+(i+1)]?navOb2['nav'+(i+1)]:navOb2['nav'+(i)]+100)) {
+                    $(this).parents('.card-item').find('.level2-item').removeClass('act');
+                    $($(this).parents('.card-item').find('.level2-item')[i]).addClass('act');
+                }
+            }
+        })
+    })
+    $(document).on('click','.next-agenda',function(){
+        var day=$(this).data('day');
+        $($('.tab-item')[day]).trigger('click');
+    })
+
+    $(document).on('click','.level2-item',function(){
+        // $(this).siblings('.level2-item').removeClass('act');
+        // $(this).addClass('act');
+        var _index=$(this).data('lv2');
+        var _top=$($(this).parents('.card-item').find('.agenda-tit')[_index-1]).position().top;
+        $(this).parents('.card-item').find('.fa-position').animate({scrollTop: _top});
+        
+    })
+    </script>
+ <body>
