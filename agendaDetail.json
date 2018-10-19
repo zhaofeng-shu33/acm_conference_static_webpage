@@ -75,6 +75,202 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第二部分：无需电池", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "InK: 针对微型无电池传感器的反应性程式内核", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "  首个微型无电池传感器反应性程式内核，着重于事件驱动的感知应用场景", 
+                                        "  对可用能量和感知数据的变化进行相对的反应",
+                                        "  在反应性上，InK优于现有主流方法14倍，并更易应用"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "CapBand: 检测手势的无电池连续电容感知手环", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "  超低功率且无需每次使用时训练模型", 
+                                        "  通过手环对手腕肌肉的动作检测来识别手势%、71%",
+                                        "  手腕位置检测和手势识别平局准确率分别能达到95.3%和93.1%"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第三部分：不要相信任何人", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "E-Eye: 通过毫米波非线性效应检测隐藏电子设备", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "  一个端到端的可移动式隐藏电子设备检测系统\n", 
+                                        "  在实验室环境下准确率达到99%，在现实环境下准确率仍可达到97%\n",
+                                        "  在日常生活中有非常大的应用前景\n"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "Hidebehind: 声纹匿名且不可复制的语音输入", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "  在将声音信号上传至云之前通过语音转换匿名化处理，在移动设备上即可使用", 
+                                        "  可有效对抗两种解匿名化的方法，十分鲁棒",
+                                        "  实验中可平均降低84%用户被识别的准确率，但仅降低语音准确率14%"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "Fall-curve: 一种新颖的IoT设备故障检测与隔离的方法", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "无需依赖其他传感器历史数据和环境信息，仅使用传感器自己的数据", 
+                                        "通过传感器在关闭时的电压反应实现检测",
+                                        "  实验中的故障检测与隔离的准确率达到了99%"
+                                    ],"is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第四部分：迷失", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "近厘米级别尺寸设备的三维定位", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "  提出了第一个微瓦级功率且可跨多个墙体的定位系统", 
+                                        "  造出了功率仅有93μW的近厘米级别大小的定位设备，一个纽扣电池可支持5到10年使用",
+                                        "  在1、5、30、60米距离下测距，误差分别为2、12、50、145厘米"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "60GHz网络下的准确三维定位", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "  无需额外设备部署，仅通过已有的单一无线接入点即可实现定位", 
+                                        "  应用毫米波，实现了厘米级的距离估计以及可视范围下的分米级的三维定位"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "SALMA: 使用多路径辅助的基于超宽带技术的单一Anchor定位系统", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "  仅使用单一Anchor即可定位，使用现有的超宽带设备，部署容易", 
+                                        "  可解决由于重叠的多路径信号造成的定位不准",
+                                        "  在无遮挡环境下定位误差中值低于8cm，有遮挡环境下最差误差小于34cm"
+                                    ],"is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
