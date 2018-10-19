@@ -1,7 +1,7 @@
 [
     [
         {
-            "name": "主会场", 
+            "name": "Sensys", 
             "type": 1, 
             "sessionData": [
                 {
@@ -532,7 +532,568 @@
                     ]
                 }
             ]
-        }
+        },
+        {
+            "name": "Buildsys", 
+            "type": 1, 
+            "sessionData": [
+                {
+                    "type": 2, 
+                    "name": "第一部分：数据管理", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "Plaster：一种用于元数据规范化方法的集成、基准测试和开发框架", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "为各种类型的元数据规范化方法提供统一的编程接口", 
+                                        "定义用于构建元数据和时间序列数据的标准化模型",
+                                        "通过工作流程集成不同的方法，通过统一接口对不同方法进行基准测试，以及新算法的快速原型设计"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "Scrabble:使用中间层表示的可传递半自动语义元数据规范化方法", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "使用多阶段主动学习机制显着减少了建筑物信息到数学模型的映射工作", 
+                                        "只需要领域专家的最少的输入即可解释深奥的、特殊的建筑物数据"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "使用IFC模型作为建筑物元数据来源的机会和局限性评估", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "根据规范和实现该规范的实际IFC模型，通过量化可用于填充Brick元数据模型的IFC模型元素来记录此前提的范围", 
+                                        "结果表明IFC模型中4.5％的元素可以映射到Brick元数据模型中"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "确保气象站的数据可信度", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "提出一个众包降雨网络信誉系统（RSCRN），用于为一个地区的个人气象站分配信任评分", 
+                                        "所提出的方法能够在安装后在10-20个观测值内收敛到个人气象站的可靠信任分数"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第二部分：设备维护", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "用于需求响应程序的智能设备的高效集成", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "提出了一种选择使用需求响应程序潜力最大的智能设备的用户的方法", 
+                                        "证明了所提出的方法基于消费者参与需求响应的潜力对消费者（使用智能设备）进行分类的有效性"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "Rimor：识别建筑物中的异常设备", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "使用历史能源数据和上下文信息预测房屋的能源消耗，并在实际能源消耗显着偏离预测消耗时标记为异常", 
+                                        "通过使用易于收集的设备的额定功率来识别异常设备",
+                                        "在检测异常方面的准确度提高了15％"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第三部分：太阳能", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "实时测量个别仪表后的太阳能发电量", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "提出了一种方法，仅使用大多数配电系统中已有的信息来分析太阳能发电情况", 
+                                        "在90%以上的情况下，能够准确预测哪些家庭有太阳能",
+                                        "该方法方法在更频繁地向电网输出电力的家庭中表现更好"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "太阳能性能模型", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "开发了一种物理黑盒建模方法以分析太阳能性能，该方法利用了许多与现有白盒模型相同的基本属性", 
+                                        "该模型准确地描述了天气对所有站点的太阳能输出的影响，避免了使用天气指标训练特定的机器学习模型",
+                                        "对来自100个站点的太阳能和天气数据进行评估，表明该方法比当前最先进的机器学习方法具有更高的精度"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "Helios: 一种可编程软件定义的太阳能模块", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "提出了一个软件定义的太阳能模块，并公开了高级编程接口，该接口使软件能够根据太阳的位置和天气情况实时地远程控制太阳能模块的功率输出在零到其最大电流之间", 
+                                        "专注于实现对实际太阳能的直接编程控制，能够实现广泛的控制策略"
+                                    ],"is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第四部分：交通和人群流动", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "DeepLane：摄像头辅助的GPS车道检测", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "运用智能手机摄像头辅助GPS 定位的车道位置估计", 
+                                        "无需依赖车道标志线",
+                                        "在日夜情况下都有超过90%的准确度"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "建筑对移动模式的影响：一个新的城市流动模型", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "人群的移动模式不仅受2D影响，3D空间中的建筑也会影响人群流动", 
+                                        "建筑物有“半吸收”效应，可以短暂停止人们的移动",
+                                        "3D模型可以在2D模型的基础上丢包率减少3倍"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第五部分：能源管理", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "基于QoS持续局部随机控制的TCL虚拟能量存储", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "提出了一种控制架构，用于分布式协调一组开/关TCL（恒温控制负载），例如住宅空调，以便为电网提供与大型电池相同的服务", 
+                                        "该控制器可以被调谐以减少TCL的循环速率到任何期望的程度",
+                                        "仿真表明该控制器能够减少单个设备的循环"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "占用率对建筑能耗模拟精度的影响", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "分析不同占用率对建筑性能仿真精度的影响", 
+                                        "结果表明提高占率不一定提高整个建筑能耗的精度，而仅改善与占用率有关的结果，例如通风能耗"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "利用日负荷数据聚类提高家庭级负载预测", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "通过聚类分析成百上千个家庭的日负荷分布历史数据，以获得他们的具体典型消费模式，来探讨提高日负荷预测的可能性", 
+                                        "增进了对围绕个人家庭负荷预测的认识，并展示了基于集群的方法增强短期负荷预测的潜力"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第六部分：感知和分类", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "运用公交卡数据剖析城市活跃区", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "通过“城市活跃区”，分析人们乘坐公共交通的目的和原因", 
+                                        "运用POI信息，验证人们的活动目的，例如：上班或者跑腿",
+                                        "为城市规划和交通管理者提供了应用范例"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "推测居住人关系：在商用楼宇中的居住人社会关系网的自动推断", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "利用插座负荷能量消耗可以推测人们的社会/组织网", 
+                                        "有助于理解人们如何组织、利用空间结构",
+                                        "在一个7人的工作环境中进行了验证、分析"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "利用Wi-Fi记录从网络-物理活动中进行购物意图识别和位置预测", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "用户的网络活动和物理情境高度相关", 
+                                        "利用维基百科的分类信息概念对物理空间进行标识",
+                                        "在商场的情境中，网络-物理关联可用于用户行为分类和位置预测"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "在住宅网关上做Wi-Fi感知的初步资源描述", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "第一个在家庭网关上做普通Wi-Fi感知的初步测量研究", 
+                                        "分析了与通信任务并行的Wi-Fi感知的工作特性、资源消耗、运行瓶颈",
+                                        "提出了在不损失通信服务质量条件下最优Wi-Fi感知性能的优化技巧"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第七部分：舒适度控制", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "好的位置得到好邻居 – 在随需随用的办公环境中，用户座位和温度调控", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "随需随用的工作环境不再降低个性化的用户舒适度", 
+                                        "根据用户舒适度喜好，在共享环境中对用户进行座位分配",
+                                        "该方法可在最大化用户舒适度的同时最小化能源配置"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "利用深度强化学习对辐射供热系统进行控制的实际部署和评估", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "在办公楼中实现并部署了用深度强化学习控制的供热系统", 
+                                        "用户可通过手机APP提交他们的供热偏好",
+                                        "相比传统基于物理模型的方法，深度强化学习控制系统可节约16.6%-18.2%的供热需求"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "运用不被注意的移动传感器进行智能灯光控制", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "在满足不同用户对灯光偏好的同时，节能的智能灯光控制系统可以测量局部照明强度并调整明暗强度", 
+                                        "面对动态的、陌生的运行环境，该系统仍然有很好的表现"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第八部分：平台和工具", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "Pible: 无需电池的永久室内低功耗蓝牙无线传感节点", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "无需电池，利用室内灯光的无线传感节点；省去了大量更换电池的时间和费用", 
+                                        "该节点部件全部是现成的商业产品组件",
+                                        "预测算法可根据周围灯光强度对节点进行调整以最大化使用寿命"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "Mortar：可移植的建筑分析开放试验台", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "包含了90个建筑，91亿数据点", 
+                                        "可编写可移植的分析应用，根据环境对不同种类的建筑进行配置部署",
+                                        "可用于多达11种应用"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        } 
     ], 
     [
         {
