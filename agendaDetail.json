@@ -25,7 +25,7 @@
                             "guestData": [
                                 {
                                     "type": 4, 
-                                    "guest_name": "张钹", 
+                                    "guest_name": " ", 
                                     "title": [
                                         "比较了直接的车载系统感知系统和间接的手机用户信号感知系统，两个系统的数据量达到了TB级\n", 
                                         "通过拥挤度指标探索了多种时空因素对实时交通状况的影响\n",
@@ -39,247 +39,38 @@
                             "type": 3, 
                             "start_time": "09:55", 
                             "end_time": "10:40", 
-                            "speech_type": "大会报告", 
+                            "speech_type": "", 
                             "stop_time": "45", 
-                            "speech_title": "Autonomous System Design in the Era of IoT", 
+                            "speech_title": "可靠自动驾驶下的自动异常驾驶行为识别", 
                             "guestData": [
                                 {
                                     "type": 4, 
-                                    "guest_name": "Joseph Sifakis", 
-                                    "title": "图灵奖得主，美国国家科学院、工程院院士，欧洲科学院院士", 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "应用车载相机和惯导系统实现了驾驶极端情况的自动检测，无需依赖自动驾驶系统", 
+                                        "对图像和惯导信号中的异常行为进行感知，识别结果较传统方法分别提高82%、71%",
+                                        "该系统低功耗，在安卓移动设备上达到了17Hz的帧率"
+                                    ],
                                     "is_real": "已确定"
                                 }
                             ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "10:40", 
-                            "end_time": "10:50", 
-                            "speech_type": "中场休息", 
-                            "stop_time": "10", 
-                            "speech_title": "", 
-                            "guestData": [
-                                {
-                                    "guest_name": "无嘉宾", 
-                                    "type": 4
-                                }
-                            ]
-                        }, 
+                        },
                         {
                             "type": 3, 
                             "start_time": "10:50", 
                             "end_time": "11:15", 
-                            "speech_type": "主题演讲", 
+                            "speech_type": "", 
                             "stop_time": "25", 
-                            "speech_title": "智慧供应链", 
+                            "speech_title": "Sentio: 考虑驾驶员行为的多采样增强学习碰撞警告系统", 
                             "guestData": [
                                 {
                                     "type": 4, 
-                                    "guest_name": "裴健 ", 
-                                    "title": "京东集团副总裁、大数据与智慧供应链事业部总裁", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "11:15", 
-                            "end_time": "11:40", 
-                            "speech_type": "主题演讲", 
-                            "stop_time": "25", 
-                            "speech_title": "Driving Safety and Autonomy through Advanced Sensing Technologies and Efficient Big Data Analytics", 
-                            "guestData": [
-                                {
-                                    "type": 4, 
-                                    "guest_name": "Mircea Gradu", 
-                                    "title": "2018 汽车工程学会（SAE International）主席，Velodyne LiDAR 高级副总裁兼CQO", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "11:40", 
-                            "end_time": "12:05", 
-                            "speech_type": "主题演讲", 
-                            "stop_time": "25", 
-                            "speech_title": "AI赋能，人机共融", 
-                            "guestData": [
-                                {
-                                    "type": 4, 
-                                    "guest_name": "张建伟", 
-                                    "title": "德国汉堡科学院院士，汉堡大学多模式系统研究所所长，国家千人计划专家", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "12:05", 
-                            "end_time": "13:45", 
-                            "speech_type": "午休", 
-                            "stop_time": "100", 
-                            "speech_title": "", 
-                            "guestData": [
-                                {
-                                    "guest_name": "无嘉宾", 
-                                    "type": 4
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "13:45", 
-                            "end_time": "14:30", 
-                            "speech_type": "大会报告", 
-                            "stop_time": "45", 
-                            "speech_title": "Understanding Simple Optimization Algorithms for Big Data", 
-                            "guestData": [
-                                {
-                                    "type": 4, 
-                                    "guest_name": "罗智泉", 
-                                    "title": "加拿大皇家科学院院士，香港中文大学（深圳）副校长，千人计划专家", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "14:30", 
-                            "end_time": "14:55", 
-                            "speech_type": "主题演讲", 
-                            "stop_time": "25", 
-                            "speech_title": "Rethinking Deep Learning: Back to the Challenges of Computer Vision", 
-                            "guestData": [
-                                {
-                                    "type": 4, 
-                                    "guest_name": "马毅", 
-                                    "title": "加州大学伯克利分校电子工程与计算机系教授， ACM 、IEEE Fellow", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "14:55", 
-                            "end_time": "15:20", 
-                            "speech_type": "主题演讲", 
-                            "stop_time": "25", 
-                            "speech_title": "Deep Exploration for Efficient Reinforcement Learning", 
-                            "guestData": [
-                                {
-                                    "type": 4, 
-                                    "guest_name": "Benjamin Van Roy", 
-                                    "title": "斯坦福大学教授，INFORMS Fellow", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "15:20", 
-                            "end_time": "15:45", 
-                            "speech_type": "主题演讲", 
-                            "stop_time": "25", 
-                            "speech_title": "Studying Uncertainty in Artificial Intelligence", 
-                            "guestData": [
-                                {
-                                    "type": 4, 
-                                    "guest_name": "承恒达", 
-                                    "title": "美国犹他州立大学计算机系终身教授，电子工程系兼职教授，计算机视觉与模式识别实验室主任", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "15:45", 
-                            "end_time": "15:55", 
-                            "speech_type": "中场休息", 
-                            "stop_time": "10", 
-                            "speech_title": "", 
-                            "guestData": [
-                                {
-                                    "guest_name": "无嘉宾", 
-                                    "type": 4
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "15:55", 
-                            "end_time": "16:20", 
-                            "speech_type": "主题演讲", 
-                            "stop_time": "25", 
-                            "speech_title": "如何应对机器人/AI技术过热的时代-机器人将与人类一起见证未来", 
-                            "guestData": [
-                                {
-                                    "type": 4, 
-                                    "guest_name": "Rolf Pfeifer ", 
-                                    "title": "瑞士苏黎世大学人工智能实验室原主任、酷哇机器人首席科学家", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "16:20", 
-                            "end_time": "16:45", 
-                            "speech_type": "主题演讲", 
-                            "stop_time": "25", 
-                            "speech_title": "大数据分析+人工智能", 
-                            "guestData": [
-                                {
-                                    "type": 4, 
-                                    "guest_name": "戴金权", 
-                                    "title": "英特尔高级首席工程师、大数据技术全球CTO", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "16:45", 
-                            "end_time": "17:10", 
-                            "speech_type": "主题演讲", 
-                            "stop_time": "25", 
-                            "speech_title": "搜狗的AI之路与挑战", 
-                            "guestData": [
-                                {
-                                    "type": 4, 
-                                    "guest_name": " 王小川", 
-                                    "title": "搜狗CEO", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "17:10", 
-                            "end_time": "17:35", 
-                            "speech_type": "主题演讲", 
-                            "stop_time": "25", 
-                            "speech_title": "“芯”连世界，智创未来", 
-                            "guestData": [
-                                {
-                                    "type": 4, 
-                                    "guest_name": "陈宁", 
-                                    "title": "云天励飞创始人兼CEO", 
-                                    "is_real": "已确定"
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "17:35", 
-                            "end_time": "17:45", 
-                            "speech_type": "2018年度AI最佳成长榜颁奖仪式", 
-                            "stop_time": "10", 
-                            "speech_title": "", 
-                            "guestData": [
-                                {
-                                    "guest_name": "无嘉宾", 
-                                    "type": 4
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "在传统的ADAS系统中引入了对驾驶员行为的检测感知", 
+                                        "  对传统的增强学习方法进行了改进，使该系统对不同人、不同时间的行为进行了考虑",
+                                        "  相较于标准的碰撞警告系统，该系统的驾驶安全性提升了94.28%、驾驶体验提升了20.97%、误报率降低了52%"
+                                    ],"is_real": "已确定"
                                 }
                             ]
                         }
