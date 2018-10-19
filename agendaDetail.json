@@ -6,57 +6,11 @@
             "sessionData": [
                 {
                     "type": 2, 
-                    "name": "开幕式", 
+                    "name": "第一部分：在路上", 
                     "guestData": [
                         {
-                            "guest_name": "王巨宏(主持人)", 
-                            "title": "CCF副理事长，腾讯公司副总裁，技术管理委员会主任", 
-                            "is_real": "已确定"
-                        }
-                    ], 
-                    "speechData": [
-                        {
-                            "type": 3, 
-                            "start_time": "08:50", 
-                            "end_time": "09:08", 
-                            "speech_type": "领导致辞", 
-                            "stop_time": "18", 
-                            "speech_title": "", 
-                            "guestData": [
-                                {
-                                    "guest_name": "无嘉宾", 
-                                    "type": 4
-                                }
-                            ]
-                        }, 
-                        {
-                            "type": 3, 
-                            "start_time": "09:08", 
-                            "end_time": "09:10", 
-                            "speech_type": "开幕仪式", 
-                            "stop_time": "2", 
-                            "speech_title": "", 
-                            "guestData": [
-                                {
-                                    "guest_name": "无嘉宾", 
-                                    "type": 4
-                                }
-                            ]
-                        }
-                    ]
-                }, 
-                {
-                    "type": 2, 
-                    "name": "AI前沿专场", 
-                    "guestData": [
-                        {
-                            "guest_name": "朱晓蕊(主持人-上午)", 
-                            "title": "大会程序主席，哈尔滨工业大学（深圳）教授，斯坦福大学访问教授，IEEE RAS国际事务委员会主席", 
-                            "is_real": "已确定"
-                        }, 
-                        {
-                            "guest_name": "陈宗周(主持人-下午)", 
-                            "title": "《环球科学》社长、总编", 
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
                             "is_real": "已确定"
                         }
                     ], 
@@ -65,14 +19,18 @@
                             "type": 3, 
                             "start_time": "09:10", 
                             "end_time": "09:55", 
-                            "speech_type": "大会报告", 
+                            "speech_type": "", 
                             "stop_time": "45", 
-                            "speech_title": "走向真正的人工智能", 
+                            "speech_title": "EXIMIUS: 一种对城市交通直接、间接感知的测量框架", 
                             "guestData": [
                                 {
                                     "type": 4, 
                                     "guest_name": "张钹", 
-                                    "title": "中国科学院院士，清华大学教授", 
+                                    "title": [
+                                        "比较了直接的车载系统感知系统和间接的手机用户信号感知系统，两个系统的数据量达到了TB级", 
+                                        "通过拥挤度指标探索了多种时空因素对实时交通状况的影响",
+                                        "分析了两种方法的优缺点，探索了将两种方法融合的可能性"
+                                    ]
                                     "is_real": "已确定"
                                 }
                             ]
