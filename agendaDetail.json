@@ -271,6 +271,265 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第五部分：保持连接", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "Mixer: 动态无线多跳网络中的高效“多节点到全节点”广播", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）采用随机线性网络编码", 
+                                        "（2）性能超过现有方法3.8倍",
+                                        "（3）可靠性在60km/h的速度下保持在99.99%以上"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "被动ZigBee: 使物联网中的ZigBee通信能耗节约1000倍成为可能", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）将现有的WiFi信号，转化为zigbee数据包，功耗为传统zigbee的1440分之一", 
+                                        "（2）低功耗反向散射连接zigbee和WiFi使它们能相互通信",
+                                        "（3）移动条件下，zigbee接收机可在55米的范围非视距地解码WiFi数据包"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "利用WiFi的防护频带搭建受保护的ZigBee", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）将ZigBee数据包嵌入到WiFi流的防护频带中有效减少WiFi干扰", 
+                                        "（2）多款ZigBee芯片支持这一机制",
+                                        "（3）以增加0.3%的计算开销降低了87.5%的低占空比时延"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "ShieldScatter: 利用反向散射辅助改进物联网安全", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）利用反向散射标签创建多径传播签名，以防御主动攻击", 
+                                        "（2）签名用于鉴别信号到达位置以及检测威胁",
+                                        "（3）实验中，3个反向散射标签可抵御15cm远的97%的欺骗攻击，仅造成7%的虚警"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第六部分：传感的再思考", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "纺织品作为传感器：利用纺织品摩擦起电“安静地”感知人类行为", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）利用纺织品受到折叠和挤压时产生的电荷进行感知", 
+                                        "（2）提取高度差异特征并改善信噪比",
+                                        "（3）实验中，感知功能可用于活动分类，运动中的出汗量测量，以及空调舒适度检测"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "UbiTap: 改变声音扩散用于固态表面的泛在触摸界面", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）利用声音将固态表面转化呈触摸输入界面", 
+                                        "（2）通过触摸定位技术改变固体表面的声能扩散",
+                                        "（3）实验可到达亚厘米级准确度，具有显著的可用性和鲁棒性"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "LSTM神经网络用于连续低功耗氨气监测", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）利用短暂的加热冲激，基于LSTM神经网络，预测金属氧化物传感器感知氨气浓度的电阻稳态值", 
+                                        "（2）极大地减少了因等待传感器达到稳态而消耗的电能",
+                                        "（3）电阻值估计误差达到0.12%，氨气浓度测量平均误差为9.38ppm"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "EAR: 在异构网络中利用不受控的外部射频信号进行姿态识别", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）利用产生于物联网设备的设备信号，结合粗粒度的噪声背景测量，感知识别人体姿态", 
+                                        "（2）系统EAR在实验中，区分准确度达99.76%",
+                                        "（3）EAR还可仅以4%低流量速率，准确识别细粒度的人体姿态"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": 2, 
+                    "name": "第七部分：未来系统", 
+                    "guestData": [
+                        {
+                            "guest_name": "Hae Young Noh", 
+                            "title": "Session Chair", 
+                            "is_real": "已确定"
+                        }
+                    ], 
+                    "speechData": [
+                        {
+                            "type": 3, 
+                            "start_time": "09:10", 
+                            "end_time": "09:55", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "CapeVM: 一种安全快速的面向资源受限的物联网设备的虚拟机", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）采用超前编译和相应优化，减少了以往传感节点中的大量编译开销", 
+                                        "（2）指令集允许虚拟机在在载入时间进行大多数的检查，显著减少了运行时的检查",
+                                        "（3）对不可避免的开销进行动态优化，仅比非沙盒化的初始代码慢2.1倍"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": 3, 
+                            "start_time": "09:55", 
+                            "end_time": "10:40", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "FastDeepIoT: 理解优化移动和嵌入设备上的神经网络执行时间", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）硬件无关且无需先验知识，学习得到神经网络执行时间的预测模型", 
+                                        "（2）在不影响准确度的条件下，利用压缩算法优化运行时间",
+                                        "（3）实验中，执行时间缩短48%-78%，能耗降低37%-69%，且无准确度损失"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "10:50", 
+                            "end_time": "11:15", 
+                            "speech_type": "", 
+                            "stop_time": "25", 
+                            "speech_title": "MARVEL: 低功耗低时延地实现移动现实增强", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）主要利用本地的惯性传感器对多目标进行识别和跟踪，辅之以云端视觉跟踪", 
+                                        "（2）极大降低了图像计算的开销",
+                                        "（3）实验表明，低功耗低时延特性并没有以损失准确度为代价"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
