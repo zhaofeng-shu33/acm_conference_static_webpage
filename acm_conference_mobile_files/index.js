@@ -139,7 +139,7 @@ function init() {
                                 if (lv1==0) {
                                     html=html.concat([
                                         '<li class="agenda-item agenda-item-sp clearfix"><div class="ag-cir"><i></i></div><div class="ag-time">18:15 - 19:30</div><div class="ag-name">大咖饭局</div><div class="ag-intro"><div class="intro-line">仅限大会嘉宾及受邀人士，VIP观众可联系客服提前报名</div></div></li>',
-                                        '<li class="agenda-item agenda-item-sp agenda-item-sp-last clearfix"><div class="ag-cir"><i></i></div><div class="ag-time">19:00 - 20:30</div><div class="ag-name">专场闭门会</div><div class="ag-intro"><div class="intro-line">CCF-GAIR × Velodyne LiDAR之夜 需报名审核<a target="_blank" href="http://www.huodongxing.com/event/2444644789300" class="ve-btn">报名参与</a></div></div></li>',
+                                        '<li class="agenda-item agenda-item-sp agenda-item-sp-last clearfix"><div class="ag-cir"><i></i></div><div class="ag-time">19:00 - 20:30</div><div class="ag-name">专场闭门会</div></li>',
                                         '<div class="next-agenda" data-day="1">6月30日议程 <i></i></div>',
                                     ])
                                 }else if(lv1==1){
