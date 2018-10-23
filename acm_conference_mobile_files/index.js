@@ -138,14 +138,14 @@ function init() {
                                     }
                                                  
                                 }                                
-                                if (lv1==0) {
+                                /*if (lv1==0) {
                                     html=html.concat([
                                         '<div class="ag-group sp-wrap">',
                                         '<li class="agenda-item agenda-item-sp clearfix"><div class="ag-cir"><i></i></div><div class="ag-right"><div class="ag-time">18:15 - 19:30 </div><div class="ag-name">大咖饭局</div><div class="ag-intro"><div class="intro-line">仅限大会嘉宾及受邀人士，VIP观众可联系客服提前报名</div></div></div></li>',
                                         '<li class="agenda-item agenda-item-sp agenda-item-sp-last clearfix"><div class="ag-cir"><i></i></div><div class="ag-right"><div class="ag-time">19:00 - 20:30</div><div class="ag-name">专场闭门会</div><div class="ag-intro"><div class="intro-line">CCF-GAIR × Velodyne LiDAR之夜 需报名审核</div><a target="_blank" href="http://www.huodongxing.com/event/2444644789300" class="ve-btn">报名参与</a></div></div></li>',
                                         '</div>'
                                     ])
-                                }
+                                }*/
                                 html=html.concat([
                                 '</div>',
                             '</div>',
