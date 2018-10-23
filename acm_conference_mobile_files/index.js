@@ -116,7 +116,7 @@ function init() {
                                                                             ])
                                                                         }else{
                                                                             html=html.concat([
-                                                                                '<div class="intro-line">'+res[lv1][lv2].sessionData[lv3].speechData[lv4].guestData[lv5].guest_name+'，'+res[lv1][lv2].sessionData[lv3].speechData[lv4].guestData[lv5].title+'</div>'                                                                
+                                                                                '<div class="intro-line">'+res[lv1][lv2].sessionData[lv3].speechData[lv4].guestData[lv5].guest_name+res[lv1][lv2].sessionData[lv3].speechData[lv4].guestData[lv5].title+'</div>'                                                                
                                                                             ])
                                                                         }
                                                                     }                                                                                                                    
