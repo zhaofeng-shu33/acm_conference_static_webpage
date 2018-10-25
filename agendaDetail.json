@@ -11,14 +11,15 @@
                         {
                             "guest_name": "Hae Young Noh", 
                             "title": "Session Chair", 
+                            "date": "11月5日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "10:30", 
+                            "end_time": "10:55", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "EXIMIUS: 一种对城市交通直接、间接感知的测量框架", 
@@ -27,9 +28,9 @@
                                     "type": 4, 
                                     "guest_name": " ", 
                                     "title": [
-                                        "比较了直接的车载系统感知系统和间接的手机用户信号感知系统，两个系统的数据量达到了TB级\n", 
-                                        "通过拥挤度指标探索了多种时空因素对实时交通状况的影响\n",
-                                        "分析了两种方法的优缺点，探索了将两种方法融合的可能性\n"
+                                        "  比较了直接的车载系统感知系统和间接的手机用户信号感知系统，两个系统的数据量达到了TB级\n", 
+                                        "  通过拥挤度指标探索了多种时空因素对实时交通状况的影响\n",
+                                        "  分析了两种方法的优缺点，探索了将两种方法融合的可能性\n"
                                     ],
                                     "is_real": "已确定"
                                 }
@@ -37,8 +38,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "10:55", 
+                            "end_time": "11:20", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "可靠自动驾驶下的自动异常驾驶行为识别", 
@@ -47,9 +48,9 @@
                                     "type": 4, 
                                     "guest_name": " ", 
                                     "title": [
-                                        "应用车载相机和惯导系统实现了驾驶极端情况的自动检测，无需依赖自动驾驶系统", 
-                                        "对图像和惯导信号中的异常行为进行感知，识别结果较传统方法分别提高82%、71%",
-                                        "该系统低功耗，在安卓移动设备上达到了17Hz的帧率"
+                                        "  应用车载相机和惯导系统实现了驾驶极端情况的自动检测，无需依赖自动驾驶系统", 
+                                        "  对图像和惯导信号中的异常行为进行感知，识别结果较传统方法分别提高82%、71%",
+                                        "  该系统低功耗，在安卓移动设备上达到了17Hz的帧率"
                                     ],
                                     "is_real": "已确定"
                                 }
@@ -57,8 +58,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "11:20", 
+                            "end_time": "11:45", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "Sentio: 考虑驾驶员行为的多采样增强学习碰撞警告系统", 
@@ -67,7 +68,7 @@
                                     "type": 4, 
                                     "guest_name": " ", 
                                     "title": [
-                                        "在传统的ADAS系统中引入了对驾驶员行为的检测感知", 
+                                        "  在传统的ADAS系统中引入了对驾驶员行为的检测感知", 
                                         "  对传统的增强学习方法进行了改进，使该系统对不同人、不同时间的行为进行了考虑",
                                         "  相较于标准的碰撞警告系统，该系统的驾驶安全性提升了94.28%、驾驶体验提升了20.97%、误报率降低了52%"
                                     ],"is_real": "已确定"
@@ -82,15 +83,16 @@
                     "guestData": [
                         {
                             "guest_name": "Jacob Sorber", 
-                            "title": "Session Chair", 
+                            "title": "Session Chair",
+                            "date": "11月5日", 
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "11:45", 
+                            "end_time": "12:10", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "InK: 针对微型无电池传感器的反应性程式内核", 
@@ -109,8 +111,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "12:10", 
+                            "end_time": "12:35", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "CapBand: 检测手势的无电池连续电容感知手环", 
@@ -135,15 +137,16 @@
                     "guestData": [
                         {
                             "guest_name": "Wen Hu", 
-                            "title": "Session Chair", 
+                            "title": "Session Chair",
+                            "date": "11月5日", 
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "13:35", 
+                            "end_time": "14:00", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "E-Eye: 通过毫米波非线性效应检测隐藏电子设备", 
@@ -162,8 +165,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "14:00", 
+                            "end_time": "14:25", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "Hidebehind: 声纹匿名且不可复制的语音输入", 
@@ -182,8 +185,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "14:25", 
+                            "end_time": "14:50", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "Fall-curve: 一种新颖的IoT设备故障检测与隔离的方法", 
@@ -192,8 +195,8 @@
                                     "type": 4, 
                                     "guest_name": " ", 
                                     "title": [
-                                        "无需依赖其他传感器历史数据和环境信息，仅使用传感器自己的数据", 
-                                        "通过传感器在关闭时的电压反应实现检测",
+                                        "  无需依赖其他传感器历史数据和环境信息，仅使用传感器自己的数据", 
+                                        "  通过传感器在关闭时的电压反应实现检测",
                                         "  实验中的故障检测与隔离的准确率达到了99%"
                                     ],"is_real": "已确定"
                                 }
@@ -208,14 +211,15 @@
                         {
                             "guest_name": "Xiaofan (Fred) Jiang", 
                             "title": "Session Chair", 
+                            "date": "11月5日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "15:10", 
+                            "end_time": "15:35", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "近厘米级别尺寸设备的三维定位", 
@@ -234,8 +238,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "15:35", 
+                            "end_time": "16:00", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "60GHz网络下的准确三维定位", 
@@ -253,8 +257,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "16:00", 
+                            "end_time": "16:25", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "SALMA: 使用多路径辅助的基于超宽带技术的单一Anchor定位系统", 
@@ -279,14 +283,15 @@
                         {
                             "guest_name": "Yuan He", 
                             "title": "Session Chair", 
+                            "date": "11月6日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "08:30", 
+                            "end_time": "08:55", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "Mixer: 动态无线多跳网络中的高效“多节点到全节点”广播", 
@@ -305,8 +310,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "08:55", 
+                            "end_time": "9:20", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "被动ZigBee: 使物联网中的ZigBee通信能耗节约1000倍成为可能", 
@@ -325,8 +330,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "9:20", 
+                            "end_time": "9:45", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "利用WiFi的防护频带搭建受保护的ZigBee", 
@@ -345,8 +350,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "9:45", 
+                            "end_time": "10:10", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "ShieldScatter: 利用反向散射辅助改进物联网安全", 
@@ -372,14 +377,15 @@
                         {
                             "guest_name": "Song Min Kim", 
                             "title": "Session Chair", 
+                            "date": "11月6日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "10:40", 
+                            "end_time": "11:05", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "纺织品作为传感器：利用纺织品摩擦起电“安静地”感知人类行为", 
@@ -398,8 +404,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "11:05", 
+                            "end_time": "11:30", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "UbiTap: 改变声音扩散用于固态表面的泛在触摸界面", 
@@ -418,8 +424,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "11:30", 
+                            "end_time": "11:55", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "LSTM神经网络用于连续低功耗氨气监测", 
@@ -438,8 +444,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "11:55", 
+                            "end_time": "12:20", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "EAR: 在异构网络中利用不受控的外部射频信号进行姿态识别", 
@@ -465,14 +471,15 @@
                         {
                             "guest_name": "Raghu Ganti", 
                             "title": "Session Chair", 
+                            "date": "11月6日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "13:20", 
+                            "end_time": "13:45", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "CapeVM: 一种安全快速的面向资源受限的物联网设备的虚拟机", 
@@ -491,8 +498,28 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "13:45", 
+                            "end_time": "14:10", 
+                            "speech_type": "", 
+                            "stop_time": "45", 
+                            "speech_title": "Post-SoC/32-bit 组网传感器的系统架构方向", 
+                            "guestData": [
+                                {
+                                    "type": 4, 
+                                    "guest_name": " ", 
+                                    "title": [
+                                        "（1）比传统16位芯片有更低的空闲状态功耗", 
+                                        "（2）线程并发可行，仅需8.3微秒的切换时间",
+                                        "（3）设计出的多线程操作系统，将MCU的功耗降低了30%"
+                                    ],
+                                    "is_real": "已确定"
+                                }
+                            ]
+                        },
+                        {
+                            "type": 3, 
+                            "start_time": "14:10", 
+                            "end_time": "14:35", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "FastDeepIoT: 理解优化移动和嵌入设备上的神经网络执行时间", 
@@ -511,8 +538,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "14:35", 
+                            "end_time": "15:00", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "MARVEL: 低功耗低时延地实现移动现实增强", 
@@ -547,14 +574,15 @@
                         {
                             "guest_name": "Madhur Behl", 
                             "title": "Session Chair", 
+                            "date": "11月7日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "13:40", 
+                            "end_time": "14:00", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "Plaster：一种用于元数据规范化方法的集成、基准测试和开发框架", 
@@ -573,8 +601,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "14:00", 
+                            "end_time": "14:20", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "Scrabble:使用中间层表示的可传递半自动语义元数据规范化方法", 
@@ -592,8 +620,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "14:20", 
+                            "end_time": "14:40", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "使用IFC模型作为建筑物元数据来源的机会和局限性评估", 
@@ -611,8 +639,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "14:40", 
+                            "end_time": "15:00", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "确保气象站的数据可信度", 
@@ -637,14 +665,15 @@
                         {
                             "guest_name": "David Irwin", 
                             "title": "Session Chair", 
+                            "date": "11月7日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "15:30", 
+                            "end_time": "15:50", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "用于需求响应程序的智能设备的高效集成", 
@@ -662,8 +691,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "15:50", 
+                            "end_time": "16:10", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "Rimor：识别建筑物中的异常设备", 
@@ -689,14 +718,15 @@
                         {
                             "guest_name": "Jocob Sorber", 
                             "title": "Session Chair", 
+                            "date": "11月7日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "16:40", 
+                            "end_time": "17:05", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "实时测量个别仪表后的太阳能发电量", 
@@ -715,8 +745,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "17:05", 
+                            "end_time": "17:30", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "太阳能性能模型", 
@@ -735,8 +765,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "17:30", 
+                            "end_time": "17:55", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "Helios: 一种可编程软件定义的太阳能模块", 
@@ -760,14 +790,15 @@
                         {
                             "guest_name": "Mikkel Baun Kjærgaard", 
                             "title": "Session Chair", 
+                            "date": "11月8日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "10:00", 
+                            "end_time": "10:25", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "DeepLane：摄像头辅助的GPS车道检测", 
@@ -786,8 +817,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "10:25", 
+                            "end_time": "10:50", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "建筑对移动模式的影响：一个新的城市流动模型", 
@@ -813,14 +844,15 @@
                         {
                             "guest_name": "Dan Wang", 
                             "title": "Session Chair", 
+                            "date": "11月8日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "11:20", 
+                            "end_time": "11:45", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "基于QoS持续局部随机控制的TCL虚拟能量存储", 
@@ -839,8 +871,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "11:45", 
+                            "end_time": "12:10", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "占用率对建筑能耗模拟精度的影响", 
@@ -858,8 +890,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "12:10", 
+                            "end_time": "12:35", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "利用日负荷数据聚类提高家庭级负载预测", 
@@ -884,14 +916,15 @@
                         {
                             "guest_name": "Xiaofan (Fred) Jiang", 
                             "title": "Session Chair", 
+                            "date": "11月8日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "13:30", 
+                            "end_time": "13:50", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "运用公交卡数据剖析城市活跃区", 
@@ -910,8 +943,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "13:50", 
+                            "end_time": "14:10", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "推测居住人关系：在商用楼宇中的居住人社会关系网的自动推断", 
@@ -930,8 +963,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "14:10", 
+                            "end_time": "14:30", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "利用Wi-Fi记录从网络-物理活动中进行购物意图识别和位置预测", 
@@ -950,8 +983,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "14:30", 
+                            "end_time": "14:50", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "在住宅网关上做Wi-Fi感知的初步资源描述", 
@@ -977,14 +1010,15 @@
                         {
                             "guest_name": "Farrokh Jazizadeh", 
                             "title": "Session Chair", 
+                            "date": "11月8日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "15:20", 
+                            "end_time": "15:40", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "好的位置得到好邻居 – 在随需随用的办公环境中，用户座位和温度调控", 
@@ -1003,8 +1037,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "15:40", 
+                            "end_time": "16:00", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "利用深度强化学习对辐射供热系统进行控制的实际部署和评估", 
@@ -1023,8 +1057,8 @@
                         },
                         {
                             "type": 3, 
-                            "start_time": "10:50", 
-                            "end_time": "11:15", 
+                            "start_time": "16:00", 
+                            "end_time": "16:20", 
                             "speech_type": "", 
                             "stop_time": "25", 
                             "speech_title": "运用不被注意的移动传感器进行智能灯光控制", 
@@ -1049,14 +1083,15 @@
                         {
                             "guest_name": "Brad Campbell", 
                             "title": "Session Chair", 
+                            "date": "11月8日",
                             "is_real": "已确定"
                         }
                     ], 
                     "speechData": [
                         {
                             "type": 3, 
-                            "start_time": "09:10", 
-                            "end_time": "09:55", 
+                            "start_time": "16:45", 
+                            "end_time": "17:05", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "Pible: 无需电池的永久室内低功耗蓝牙无线传感节点", 
@@ -1075,8 +1110,8 @@
                         }, 
                         {
                             "type": 3, 
-                            "start_time": "09:55", 
-                            "end_time": "10:40", 
+                            "start_time": "17:05", 
+                            "end_time": "17:25", 
                             "speech_type": "", 
                             "stop_time": "45", 
                             "speech_title": "Mortar：可移植的建筑分析开放试验台", 
